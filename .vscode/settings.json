@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "at89sx051.h": "c",
+        "at89x051.h": "c",
+        "8051.h": "c",
+        "max7219.h": "c"
+    }
+}
